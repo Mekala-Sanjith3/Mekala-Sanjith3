@@ -76,13 +76,9 @@ I am actively preparing for software, data, and ML roles through hands-on projec
 ## 🧠 Experience
 
 **AI Trainee — Calibo AI Academy**  
-- undergoing structured industry-aligned training across AI, machine learning, SQL, data engineering and many more...
-- working hands-on in Calibo Sandbox environments to build end-to-end pipelines: data ingestion, EDA, feature engineering, model training, and evaluation 
-- solving real-world business use cases through team-based hackathons and applied projects  
-- leveraging SQL for data extraction, transformation, and analytical workflows  
-- participating in weekly expert-led sessions focused on industry practices, system design, and production
-- practicing clean code, reproducible experiments, professional documentation, and structured project organization  
-- translating business problems into scalable technical solutions with an engineering-first mindset  
+- Engaged in an industry-aligned AI training program focusing on Python, Machine Learning, and end-to-end AI system development using DBIM (Design-Build-Implement-Manage) methodology.
+- Building real-world, project-driven solutions with emphasis on data engineering pipelines, model deployment, and scalable AI workflows.
+- Strengthening expertise in hands-on problem solving, sandbox experimentation, and production-oriented development practices.
  
 
 **AI & Azure Intern — Edunet Foundation**  

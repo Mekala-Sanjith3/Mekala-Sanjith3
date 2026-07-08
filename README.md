@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mekala Maria Sanjith Reddy
+# Hi, I'm Mekala Maria Sanjith Reddy
 
 🎓 B.Tech Computer Science (Honors), KL University — Class of 2027  
 💻 Software Engineering | Machine Learning | Full-Stack | Cloud  
